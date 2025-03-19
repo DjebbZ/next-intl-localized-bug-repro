@@ -1,4 +1,4 @@
-import Link from "next-intl";
+import { Link } from "@/i18n/navigation";
 
 export default function SomePage() {
   const t = useTranslations('SomePage');
