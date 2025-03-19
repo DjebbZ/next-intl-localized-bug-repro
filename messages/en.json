@@ -1,5 +1,8 @@
 {
   "IndexPage": {
     "title": "Hello!"
+  },
+  "SomePage": {
+    "title": "This is some random page, whatever"
   }
 }
